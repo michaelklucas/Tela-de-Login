@@ -39,7 +39,7 @@ git clone https://github.com/michaelklucas/Tela_De_Login.git
 ### Contato
 
 
-Me siga no [Intagram](https://www.instagram.com/michael_klucas).
+Entre em contato comigo pelo [Intagram](https://www.instagram.com/michael_klucas).
 
 ### License
 
