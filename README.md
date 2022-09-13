@@ -2,7 +2,7 @@
   
   <h2 align="center">Tela De Login</h2>
 
- Tela de Login, <br />Responsiva criada com HTML, e Autenticação PHP.
+ Tela de Login, <br />Responsiva criada com HTML e com Autenticação PHP.
 
   <!--<a href="https://codewithsadee.github.io/dprod/"><strong>➥ Live Demo</strong></a>-->
 
@@ -14,15 +14,15 @@
 
 ![Dprod Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+### Requisitos
 
-Before you begin, ensure you have met the following requirements:
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
 
-### Run Locally
+### Rodar Localmente
 
-To run **Dprod** locally, run this command on your git bash:
+Para rodar **Tela De Login** em modo local, rode o comando no seu git bash:
 
 Linux and macOS:
 
@@ -36,10 +36,11 @@ Windows:
 git clone https://github.com/michaelklucas/Tela_De_Login.git
 ```
 
-### Contact
+### Contato
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+Se você quiser entrar em contato comigo, você pode entrar em contato comigo em [Intagram](https://www.instagram.com/michael_klucas).
 
 ### License
 
-This project is **free to use** and does not contains any license.
+Esse Projeto tem uma Licensa para uso **FREE**.
