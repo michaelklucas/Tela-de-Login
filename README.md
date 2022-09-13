@@ -27,13 +27,13 @@ Para rodar **Tela De Login** em modo local, rode o comando no seu git bash:
 Linux e macOS:
 
 ```bash
-sudo git clone https://github.com/michaelklucas/Tela_De_Login.git
+sudo git clone https://github.com/michaelklucas/Tela-de-Login.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/michaelklucas/Tela_De_Login.git
+git clone https://github.com/michaelklucas/Tela-de-Login.git
 ```
 
 ### Contato
