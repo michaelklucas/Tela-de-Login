@@ -4,8 +4,6 @@
 
  Tela de Login, <br />Responsiva criada com HTML, CSS.
 
-  <!--<a href="https://codewithsadee.github.io/dprod/"><strong>➥ Live Demo</strong></a>-->
-
 </div>
 
 <br />
