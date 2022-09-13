@@ -2,7 +2,7 @@
   
   <h2 align="center">Tela De Login</h2>
 
- Tela de Login, <br />Responsiva criada com HTML e com Autenticação PHP.
+ Tela de Login, <br />Responsiva criada com HTML, CSS.
 
   <!--<a href="https://codewithsadee.github.io/dprod/"><strong>➥ Live Demo</strong></a>-->
 
@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Login Demo](./readme-images/desktop.png "Desktop Demo")
+![Login Demo](./imagens/demo.png "Desktop Demo")
 
 ### Requisitos
 
