@@ -22,7 +22,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ### Rodar Localmente
 
-Para rodar **Tela De Login** em modo local, rode o comando no seu git bash:
+Para rodar a **Tela De Login** em modo local, rode o comando no seu git bash:
 
 Linux e macOS:
 
