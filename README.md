@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Dprod Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Login Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Requisitos
 
@@ -24,7 +24,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para rodar **Tela De Login** em modo local, rode o comando no seu git bash:
 
-Linux and macOS:
+Linux e macOS:
 
 ```bash
 sudo git clone https://github.com/michaelklucas/Tela_De_Login.git
@@ -39,7 +39,7 @@ git clone https://github.com/michaelklucas/Tela_De_Login.git
 ### Contato
 
 
-Se você quiser entrar em contato comigo, você pode entrar em contato comigo em [Intagram](https://www.instagram.com/michael_klucas).
+Me siga no [Intagram](https://www.instagram.com/michael_klucas).
 
 ### License
 
